@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074774540816",
+    "project_id": "app-travell",
+    "storage_bucket": "app-travell.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074774540816:android:002dc6d9760c1312360095",
+        "android_client_info": {
+          "package_name": "com.example.travell_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUHTqK0M0pf8nxp-IpSplTB024O3cmh_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,8 +1,5 @@
 # UAS Pemrograman Mobile
-Kelompok OneHeart :
-- Sandyningtias. P. Putri (152019040)
-- Muhammad Rizqi Naufal (152019043)
-- Dhevan Fasya Revangga (152021030)
+![alt text](https://github.com/MRNaufal21/travell_app/blob/main/assets/Login%20Screen.png?raw=true)
 # travell_app
 
 A new Flutter project.

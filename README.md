@@ -1,6 +1,5 @@
-# UAS Pemrograman Mobile
+# UAS Pemrograman Mobile (Travell App)
 ![alt text](https://github.com/MRNaufal21/travell_app/blob/main/assets/Login%20Screen.png?raw=true)
-# travell_app
 
 A new Flutter project.
 

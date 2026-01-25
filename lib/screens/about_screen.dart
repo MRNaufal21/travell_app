@@ -9,7 +9,7 @@ class AboutScreen extends StatelessWidget {
   // Fungsi untuk membuka link YouTube demo aplikasi
   Future<void> _launchYoutube() async {
     // Ganti URL ini dengan link video demo kelompok Anda
-    final Uri url = Uri.parse('https://youtu.be/u7zuu_6gDSI');
+    final Uri url = Uri.parse('https://youtu.be/QZMYxjv_8EQ');
     if (!await launchUrl(url)) {
       throw Exception('Could not launch $url');
     }

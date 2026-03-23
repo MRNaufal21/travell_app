@@ -1,5 +1,19 @@
 # UAS Pemrograman Mobile (Travell App)
+
+### Halaman Login
 ![alt text](https://github.com/MRNaufal21/travell_app/blob/main/assets/Login%20Screen.png?raw=true)
+
+### Halaman Daftar Akun
+![alt text](https://github.com/MRNaufal21/travell_app/blob/main/assets/daftar_akun_baru_untuk_client.png?raw=true)
+
+### Halaman Client
+![alt text](https://github.com/MRNaufal21/travell_app/blob/main/assets/halaman%20client.png?raw=true)
+
+### Halaman Pemasanan Client
+![alt text](https://github.com/MRNaufal21/travell_app/blob/main/assets/riwayat%20pemesanan%20client.png?raw=true)
+
+### Halaman Tentang Aplikasi
+![alt text](https://github.com/MRNaufal21/travell_app/blob/main/assets/tentang%20aplikasi.png?raw=true)
 
 A new Flutter project.
 
